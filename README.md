@@ -22,6 +22,6 @@ This repository holds only the downloads (signed with Developer ID and notarized
 - **Latest download:** https://github.com/HDShinobi/PureBit-Mac/releases/latest/download/PureBit.dmg
 - **Requirements:** macOS 14 or later, a Mac with Apple Silicon.
 - **Install:** open `PureBit.dmg`, drag PureBit to the Applications folder and open it from there. macOS asks once because the app came from the Internet.
-- **Updates:** PureBit checks daily, downloads new versions in the background and installs only when you are ready; it never interrupts your listening. PureBit › "Check for Updates…" checks right away.
+- **Updates:** PureBit checks daily, downloads new versions in the background and installs only when you are ready; it never interrupts your listening. PureBit › "Kiểm tra cập nhật…" (Check for Updates) checks right away.
 - **Older versions:** https://github.com/HDShinobi/PureBit-Mac/releases
 - **Home and support:** https://purebit.app/mac · https://purebit.app/support.html
